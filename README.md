@@ -1,6 +1,12 @@
-# salvar_dados_na_memoria
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Exemplo simples de como salvar dados na memoria do android no formato json.
+Eu sou Romário Ferreira 😃. Sou de Itaúna MG,estou cursando Faculdade de análise e desenvolvimento de Sistemas.Adoro aprender coisas novas.
+Em paralelo com a faculdade estou estudando desenvolvimento mobile com flutter, estou adorando flutter e dart.
+
+## ⚡ Objetivo deste repositorio:
+🎯 Mostrar um simples exemplo de como armazenar um dado de forma permanente na memoria do android. 
+
+
 
 ## Getting Started
 
