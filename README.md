@@ -3,8 +3,15 @@
 Eu sou Romário Ferreira 😃. Sou de Itaúna MG,estou cursando Faculdade de análise e desenvolvimento de Sistemas.Adoro aprender coisas novas.
 Em paralelo com a faculdade estou estudando desenvolvimento mobile com flutter, estou adorando flutter e dart.
 
-## ⚡ Objetivo deste repositorio:
+## ⚡ Objetivo deste repositório:
 🎯 Mostrar um simples exemplo de como armazenar um dado de forma permanente na memoria do android. 
+
+## ⚡ Descrição:
+* Digite no TextFeld uma palavra ou frase,depois clique em salvar,ao apertar o botao 'ler dados'
+  a função readData buscara o arquivo na memória e imprimira o texto digitado.
+
+
+
 
 
 
